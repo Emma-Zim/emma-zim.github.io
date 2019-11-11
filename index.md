@@ -5,7 +5,7 @@
 ### Work Experience 
 
 <h3>Cloud Computing Pathfinder Intern at NASA</h3>
-<img src="images/posterpresentationm (2).jpg"/>
+<img src="images/posterpresentation (2).jpg"/>
 <img src="images/automouscar (2).jpg"/>
 <p>Worked with the Information Technology Solutions Team to build an application using Amazon Web Services</p>
 <p>Automated a connection to an API to download thousands of data files and store in a cloud-based bucket</p>
