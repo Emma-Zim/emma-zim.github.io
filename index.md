@@ -5,9 +5,14 @@
 ### Work Experience 
 
 <h3>Cloud Computing Pathfinder Intern at NASA</h3>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/posterpresentation.jpg"/>
+<img src="images/automouscar.jpg"/>
+<p>Worked with the Information Technology Solutions Team to build an application using Amazon Web Services</p>
+<p>Automated a connection to an API to download thousands of data files and store in a cloud-based bucket</p>
+<p>Used downloaded files to train a machine learning model to read and tag scientific article abstracts with relevant terms</p>
+<p>Developed the model through Natural Language Processing</p>
+<p>Used Reinforcemnet Learning to train an automous car to race around a track</p>
+<p>Presented the project at a poster fair</p>
 
 ---
 [Top Shelf Media Web Developer](http://twelfthroundauto.com/)
