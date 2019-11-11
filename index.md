@@ -2,22 +2,20 @@
 
 ---
 
-### Category Name 1 
+### Work Experience 
 
-[Cloud Computing Pathfinder Intern at NASA](/sample_page)
+<h3>Cloud Computing Pathfinder Intern at NASA</h3>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Top Shelf Media Web Developer](http://twelfthroundauto.com/)
+<p>Improved site speeds by compressing images, reconfiguring file loading placement, and implementing lazy loading</p>
 
 ---
 
-### Category Name 2
+### Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
