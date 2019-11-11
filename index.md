@@ -18,7 +18,9 @@
 
 ---
 [Top Shelf Media Web Developer](http://twelfthroundauto.com/)
-<p>Improved site speeds by compressing images, reconfiguring file loading placement, and implementing lazy loading</p>
+<ul>
+  <li>Improved site speeds by compressing images, reconfiguring file loading placement, and implementing lazy loading</li>
+</ul>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
