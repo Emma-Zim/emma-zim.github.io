@@ -7,12 +7,14 @@
 <h3>Cloud Computing Pathfinder Intern at NASA</h3>
 <img src="images/posterpresentation (2).jpg"/>
 <img src="images/automouscar (2).jpg"/>
-<p>Worked with the Information Technology Solutions Team to build an application using Amazon Web Services</p>
-<p>Automated a connection to an API to download thousands of data files and store in a cloud-based bucket</p>
-<p>Used downloaded files to train a machine learning model to read and tag scientific article abstracts with relevant terms</p>
-<p>Developed the model through Natural Language Processing</p>
-<p>Used Reinforcement Learning to train an automous car to race around a track</p>
-<p>Presented the project at a poster fair</p>
+<ul>
+  <li>Worked with the Information Technology Solutions Team to build an application using Amazon Web Services</li>
+  <li>Automated a connection to an API to download thousands of data files and store in a cloud-based bucket</li>
+  <li>Used downloaded files to train a machine learning model to read and tag scientific article abstracts with relevant terms</li>
+  <li>Developed the model through Natural Language Processing</li>
+  <li>Used Reinforcement Learning to train an automous car to race around a track</li>
+  <li>Presented the project at a poster fair</li>
+</ul>
 
 ---
 [Top Shelf Media Web Developer](http://twelfthroundauto.com/)
