@@ -3,13 +3,13 @@
 ---
 ### Class Projects
 <h3>Database Application</h3>
-<img src="images/dbprojectstartpage.png"/>
-<img src="images/dbprojectviewconcertspage.png"/>
-<img src="images/dbprojectcreateconcertpage.png"/>
-<img src="images/dbprojectupdateconcertpage.png"/>
-<img src="images/dbprojectdeleteconcert.png"/>
-<img src="images/dbprojectsearchbands.png"/>
-<img src="images/dbprojectviewmembersofband.png"/>
+<img src="images/dbprojectstartpage.PNG"/>
+<img src="images/dbprojectviewconcertspage.PNG"/>
+<img src="images/dbprojectcreateconcertpage.PNG"/>
+<img src="images/dbprojectupdateconcertpage.PNG"/>
+<img src="images/dbprojectdeleteconcert.PNG"/>
+<img src="images/dbprojectsearchbands.PNG"/>
+<img src="images/dbprojectviewmembersofband.PNG"/>
 <ul>
   <li>Designed and created database to store information about music and bands</li>
   <li>Built application in Python that interacts with database allowing creation of concerts, viewing songs and albumns, searching for playlist, and view members of a band</li>
