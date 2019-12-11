@@ -1,6 +1,14 @@
 ## Portfolio
 
 ---
+### Class Projects
+<h3>Database Application</h3>
+<ul>
+  <li>Designed and created database to store information about music and bands</li>
+  <li>Built application in Python that interacts with database allowing creation of concerts, viewing songs and albumns, searching for playlist, and view members of a band</li>
+  <li>Built using the Tkinter Library for Python</li>
+  <li>My role on the team was the Project Manager and I also built the framework of the application. I also completed the pages and queries for creation, viewing, updating, and deleting concerts.</li>
+</ul>
 
 ### Work Experience 
 
@@ -20,8 +28,9 @@
 [Top Shelf Media Web Developer](http://twelfthroundauto.com/)
 <ul>
   <li>Improved site speeds by compressing images, reconfiguring file loading placement, and implementing lazy loading</li>
+  <li>Worked in WordPress Content Management System</li>
 </ul>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<!-- Remove above link if you don't want to attribute -->
