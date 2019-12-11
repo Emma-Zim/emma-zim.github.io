@@ -6,7 +6,7 @@
 <img src="images/dbprojectstartpage.PNG"/>
 <img src="images/dbprojectviewconcertspage.PNG"/>
 <img src="images/dbprojectcreateconcertpage.PNG"/>
-<img src="images/dbprojectupdateconcertpage.PNG"/>
+<img src="images/dbupdateconcertpage.PNG"/>
 <img src="images/dbprojectdeleteconcert.PNG"/>
 <img src="images/dbprojectsearchbands.PNG"/>
 <img src="images/dbprojectviewmembersofband.PNG"/>
