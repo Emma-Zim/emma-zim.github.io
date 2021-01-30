@@ -14,10 +14,17 @@
   <li>Designed and created database to store information about music and bands</li>
   <li>Built application in Python that interacts with database allowing creation of concerts, viewing songs and albumns, searching for playlist, and view members of a band</li>
   <li>Built using the Tkinter Library for Python</li>
-  <li>My role on the team was the Project Manager and I also built the framework of the application. I also completed the pages and queries for creation, viewing, updating, and deleting concerts.</li>
+  <li>My role on the team was the Project Manager and I also built the framework of the application. I completed the pages and queries for creation, viewing, updating, and deleting concerts.</li>
 </ul>
 
 ### Work Experience 
+<h3>Amazon Web Services Solutions Architect Intern</h3>
+<ul>
+  <li>Shadowed customer calls to observe how to communicate accurately with customers</li>
+  <li>Designed and built backend of web appilcation</li>
+  <li>Structured and built API endpoints</li>
+  <li>Won Alexa Hackathon to build an Alexa skill for onboarding interns</li>
+</ul>
 
 <h3>Cloud Computing Pathfinder Intern at NASA</h3>
 <img src="images/posterpresentation (2).jpg"/>
