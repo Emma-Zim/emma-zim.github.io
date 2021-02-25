@@ -2,7 +2,7 @@
 
 ---
 ### Work Experience 
-<h3>Amazon Web Services Solutions Architect Intern</h3>
+<h4>Amazon Web Services Solutions Architect Intern</h4>
 <ul>
   <li>Shadowed customer calls to observe how to communicate accurately with customers</li>
   <li>Designed and built backend of web appilcation</li>
@@ -10,7 +10,7 @@
   <li>Won Alexa Hackathon to build an Alexa skill for onboarding interns</li>
 </ul>
 
-<h3>Cloud Computing Pathfinder Intern at NASA</h3>
+<h4>Cloud Computing Pathfinder Intern at NASA</h4>
 <img src="images/posterpresentation (2).jpg"/>
 <img src="images/automouscar (2).jpg"/>
 <ul>
@@ -31,20 +31,17 @@
 
 ---
 ### Class Projects
-<h3>COVID-19 Visualization App for Data Science</h3>
-<img src="images/covidvisualizationscreenshot.JPG"/>
+<h4>COVID-19 Visualization App for Data Science</h4>
+<i>This was my final project for the Intro to Data Science class I took. I built an app in R that visualizes COVID-19 world data according to user selected values.</i>
 <img src="images/screenshot2.JPG"/>
 <img src="images/screenshot3.JPG"/>
-<ul>
-  <li>Coded in R Studio</li>
-  <li>Used Our World in Data dataset to create an interactive app for COVID-19 data</li>
-  <li>User selects what data and day they would like to see</li>
-  <li>World map is updated to display data according to input</li>
-  <li>User can mouse over countries to see their specific number</li>
-</ul>
 
 ---
-<h3>Music Database Application for Database Managment</h3>
+<h4>Music Database Application for Database Managment</h4>
+<i>This was my final project for my Database Managment class. We learned how to design, build, and manage a relational database. We applied what we learned in this final project.</i>
+<i>Our final database stores user music data. Our application was built in the Python coding language. The functionality allows the creation of concerts, viewing songs and albums, searching for a playlist, deleting data, modifying data, and viewing members of a band.</i>
+<i>I had the role of Project Manager and I also built the framework of the application. I completed the functionality for creation, viewing, updating, and deleting concerts in the database.</i>
+<img src="images/erdiagram.JPG"/>
 <img src="images/dbprojectstartpage.PNG"/>
 <img src="images/dbprojectviewconcertspage.PNG"/>
 <img src="images/dbprojectcreateconcertpage.PNG"/>
