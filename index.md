@@ -49,12 +49,6 @@
 <img src="images/dbprojectdeleteconcert.PNG"/>
 <img src="images/dbprojectsearchbands.PNG"/>
 <img src="images/dbprojectviewmembersofband.PNG"/>
-<ul>
-  <li>Designed and created database to store information about music and bands</li>
-  <li>Built application in Python that interacts with database allowing creation of concerts, viewing songs and albumns, searching for playlist, and view members of a band</li>
-  <li>Built using the Tkinter Library for Python</li>
-  <li>My role on the team was the Project Manager and I also built the framework of the application. I completed the pages and queries for creation, viewing, updating, and deleting concerts.</li>
-</ul>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
