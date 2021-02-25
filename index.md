@@ -32,9 +32,9 @@
 ---
 ### Class Projects
 <h3>COVID-19 Visualization App for Data Science</h3>
-<img src="images/covidvisualizationscreenshot.jpg"/>
-<img src="images/screenshot2.jpg"/>
-<img src="images/screenshot3.jpg"/>
+<img src="images/covidvisualizationscreenshot.JPG"/>
+<img src="images/screenshot2.JPG"/>
+<img src="images/screenshot3.JPG"/>
 <ul>
   <li>Coded in R Studio</li>
   <li>Used Our World in Data dataset to create an interactive app for COVID-19 data</li>
