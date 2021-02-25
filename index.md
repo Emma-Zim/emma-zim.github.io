@@ -3,7 +3,7 @@
 ---
 ### Work Experience 
 <h4>Amazon Web Services Solutions Architect Intern</h4>
-<p>In the summer of 2020, I worked remotely for Amazon Web Services as a Solutions Architect Intern. My role included a variety of responsibilities to learn about the role. I shadowed customer calls every week to observe how to communicate with customers. I was given a project to architect and implement the back end of a flash card learning app hosted on AWS. In this project, I built an API, coded the learning algorithm, as well as the managment of the database. I also entered and won an Alexa hackation where my team built an Alexa skill to help onboard interns.</p>
+<p>In the summer of 2020, I worked remotely for Amazon Web Services as a Solutions Architect Intern. My role included a variety of responsibilities to learn about the role. I shadowed customer calls every week to observe how to communicate with customers. I was given a project to architect and implement the back end of a flash card learning app hosted on AWS. In this project, I built an API, coded the learning algorithm, as well as the managment of the database. I also entered and won an Alexa hackation where my team built an Alexa skill to help onboard interns. Finally, I recieved my AWS Cloud Practioner certification.</p>
 
 ---
 <h4>Cloud Computing Pathfinder Intern at NASA</h4>
