@@ -1,7 +1,17 @@
-## Portfolio
+## Emma Zimmerman
+<p>I believe technology and engineering is best with the end user in mind. Making solutions with positive impact as the end goal.</p>
+<p>I have worked on a variety of projects that require skills from System Architecture, database design, web engineer, networking, and backend coding.</p>
 
 ---
-### Work Experience 
+### Technical Work Experience
+<h4>Technical Solutions Engineer at Looker DCL</h4>
+<p>Provided online chat support to users of the Looker application in all areas of the product from building reports to managing the instance. Provided quality service that customers appriciated. Also communicated with Engineering about bugs by filing and reproducting the issue, and tracking customer impact. Worked on quickly solving high impact issues and providing excellent technical knowledge and customer empathy. Assisted my colleagues in their tickets as well as we all worked with each other to help our customers.</p>
+
+---
+<h4>Computer Science Lab Assistance</h4>
+<p></p>
+
+---
 <h4>Amazon Web Services Solutions Architect Intern</h4>
 <p>In the summer of 2020, I worked remotely for Amazon Web Services as a Solutions Architect Intern. My role included a variety of responsibilities to learn about the role. I shadowed customer calls every week to observe how to communicate with customers. I was given a project to architect and implement the back end of a flash card learning app hosted on AWS. In this project, I built an API, coded the learning algorithm, as well as the managment of the database. I also entered and won an Alexa hackation where my team built an Alexa skill to help onboard interns. Finally, I recieved my AWS Cloud Practioner certification.</p>
 
@@ -16,7 +26,7 @@
 <p>I improved site loading speed by compressing images, reconfiguring file loading placement, and implementing lazy loading of images on the site. This was all done through Wordpress Content Managment System.</p>
 
 ---
-### Class Projects
+### Projects
 <h4>COVID-19 Visualization App for Data Science</h4>
 <p>This was my final project for the Intro to Data Science class I took. I built an app in R that visualizes COVID-19 world data according to user selected values.</p>
 <img src="images/screenshot2.JPG"/>
