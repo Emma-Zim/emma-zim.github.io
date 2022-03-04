@@ -9,7 +9,7 @@
 
 ---
 <h4>Computer Science Lab Assistance</h4>
-<p></p>
+<p>Assisted students on labs in the Computer Science courses. Helped with projects in Data Structures, Algorithms, and web design. Some of my responsibilities required debugging exisiting code, and also helping students get started on labs. I was like another professor for these students teaching them what they needed to know to be successful in the class and the tech field.</p>
 
 ---
 <h4>Amazon Web Services Solutions Architect Intern</h4>
