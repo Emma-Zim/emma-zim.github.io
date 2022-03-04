@@ -18,8 +18,8 @@
 ---
 <h4>Cloud Computing Pathfinder Intern at NASA</h4>
 <p>I worked at NASA Goddard Campus in the Cloud Computing IT Soltuions Team during the summer of 2019. I was provided the architecture of an application to be build on Amazon Web Services and spent the summer implementing it. I automated a connection to an API in order to download thousands of data files and store it in a S3 bucket. I used those files to train a model to read and tag scientific articles with relevant terms in order to search these articles more accurately. I learned and used concepts from Natural Language Processing. I also competed in an AWS DeepRacer event where I trained a self-driving car through Reinforcement learning.</p>
-<img src="images/posterpresentation (2).jpg"/>
-<img src="images/automouscar (2).jpg"/>
+<img src="images/posterpresentation (2).jpg"/ width=500>
+<img src="images/automouscar (2).jpg"/ width=500>
 
 ---
 [Top Shelf Media Web Developer](http://twelfthroundauto.com/)
@@ -29,8 +29,8 @@
 ### Projects
 <h4>COVID-19 Visualization App for Data Science</h4>
 <p>This was my final project for the Intro to Data Science class I took. I built an app in R that visualizes COVID-19 world data according to user selected values.</p>
-<img src="images/screenshot2.JPG"/>
-<img src="images/screenshot3.JPG"/>
+<img src="images/screenshot2.JPG"/ width=800>
+<img src="images/screenshot3.JPG"/ width=800>
 
 ---
 <h4>Music Database Application for Database Managment</h4>
