@@ -7,8 +7,8 @@
 <p>This was my final project for the Intro to Data Science class I took. I built an app in R that visualizes COVID-19 world data according to user selected values.</p>
 <p>Users would be able to choose the date range and metric they were interested in. The world map would update with a heatmap of the data according to country.</p>
 <p>Tooltips will show the actual value when hovering over a country.</p>
-<img src="images/screenshot2.JPG"/ width=800>
-<img src="images/screenshot3.JPG"/ width=800>
+<img src="images/screenshot2.JPG">
+<img src="images/screenshot3.JPG">
 
 ---
 <h4>Music Database Application for Database Managment</h4>
